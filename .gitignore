@@ -1,0 +1,3 @@
+/target
+*.priv
+# /discord_webhook/target/release/webhook_url.txt
